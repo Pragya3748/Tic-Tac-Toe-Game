@@ -2,6 +2,11 @@
 
 A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
+## 🎮 Play the Game
+
+Play the Game-(https://pragya3748.github.io/Tic-Tac-Toe-Game/)
+
+
 ## ✨ Features
 
 - Two-player Tic-Tac-Toe
@@ -22,6 +27,10 @@ A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 - `game.html` — Game page
 - `style.css` — Styling
 - `app.js` — Game logic
+
+## 🚀 How to Run
+
+You can play the game online using the link above, or download/clone this repository and open index.html in a browser.
 
 
 ## 👩‍💻 Author
